@@ -39,7 +39,6 @@ public class Radio {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
-        this.volume = volume;
         this.estacao = estacao;
 
     }
